@@ -1,0 +1,69 @@
+{
+        "Cats" :
+        [
+            {
+                "Name":"T8+Camo",
+                "UseCounter": 50,
+                "Rate":0.0792452830188679,
+                "Items":[
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":8700,  "Name":"[8] ISU-152K"},
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":10200, "Name":"[8] C45"},
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":9000,  "Name":"[8] GSOR-1008"},
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":7600,  "Name":"[8] Batchat Bourrasque"},
+                    {"Owned":false, "Amount":1, "NoDupe":true,  "Refund":0,     "Name":"[C] GC"},
+                    {"Owned":false, "Amount":1, "NoDupe":true,  "Refund":0,     "Name":"[C] Maus"},
+                    {"Owned":false, "Amount":1, "NoDupe":true,  "Refund":0,     "Name":"[C] 60TP L"},
+                    {"Owned":false, "Amount":1, "NoDupe":true,  "Refund":0,     "Name":"[C] STB-1"},
+                    {"Owned":false, "Amount":1, "NoDupe":true,  "Refund":0,     "Name":"[C] WZ111-5A"},
+                    {"Owned":false, "Amount":1, "NoDupe":true,  "Refund":0,     "Name":"[C] T110E4"},
+                    {"Owned":false, "Amount":1, "NoDupe":true,  "Refund":0,     "Name":"[C] E-100"},
+                    {"Owned":false, "Amount":1, "NoDupe":true,  "Refund":0,     "Name":"[C] AMX 13 105"},
+                    {"Owned":false, "Amount":1, "NoDupe":true,  "Refund":0,     "Name":"[C] E-100 TD"},
+                    {"Owned":false, "Amount":1, "NoDupe":true,  "Refund":0,     "Name":"[C] 430U"}
+                ]
+            },
+            {
+                "Name":"T3-6",
+                "Rate":0.11,
+                "Items":[
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":900, "Name":"[3] T-15"},
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":1750, "Name":"[5] Black Prince"},
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":900, "Name":"[3] M22"},
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":3300, "Name":"[6] M4A1 FL 10"},
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":2800, "Name":"[6] T78"}
+                ]
+            },
+            {
+                "Name":"Other",
+                "Rate":0.8107547169811321,
+                "Items":[
+                    {"Owned":true, "Amount":1, "NoDupe":false, "Refund":0, "Name":"VIP"},
+                    {"Owned":true, "Amount":3, "NoDupe":false, "Refund":0, "Name":"VIP"},
+                    {"Owned":true, "Amount":7, "NoDupe":false, "Refund":0, "Name":"VIP"},
+                    {"Owned":true, "Amount":250, "NoDupe":false, "Refund":0, "Name":"Gold"},
+                    {"Owned":true, "Amount":500, "NoDupe":false, "Refund":0, "Name":"Gold"},
+                    {"Owned":true, "Amount":1000, "NoDupe":false, "Refund":0, "Name":"Gold"},
+                    {"Owned":true, "Amount":10, "NoDupe":false, "Refund":0, "Name":"Silver"},
+                    {"Owned":true, "Amount":50, "NoDupe":false, "Refund":0, "Name":"Silver"}
+                ]
+            },
+            {
+                "Name":"Fixed 1",
+                "Rate":0,
+                "Items":[
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":0, "Name":"L5 Deco"}
+                ]
+            },
+            {
+                "Name":"Fixed 2",
+                "Rate":0,
+                "Items":[
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":0, "Name":"L5 Deco"},
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":0, "Name":"L4 Deco"},
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":0, "Name":"L3 Deco"},
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":0, "Name":"L2 Deco"},
+                    {"Owned":false, "Amount":1, "NoDupe":false, "Refund":0, "Name":"L1 Deco"}
+                ]
+            }
+        ]
+}
